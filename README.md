@@ -3,16 +3,32 @@
 - Github URL: https://github.com/DanielCConlon/food-festival
 - Github Pages: https://danielcconlon.github.io/food-festival/
 
+# Goal
+
+Web application designed for a food festival so attendees can use the app on their phones to keep up with everything going on during the festival.
+
 ## Table-of-Contents
 
+- [User Story](#userstory)
 - [Description](#description)
+- [Installation](#installation)
 - [Usage](#usage)
-- [Additions](#additions)
 - [Application](#application)
+- [Questions](#questions)
 
-## [Description](#description)
+## [User Story](#table-of-contents)
+
+- AS A manager at an internet retail company
+- I WANT a back end for my e-commerce website that uses the latest technologies
+- SO THAT my company can compete with other e-commerce companies
+
+## [Description](#table-of-contents)
 
 Web application designed for a food festival so attendees can use the app on their phones to keep up with everything going on during the festival. The application has been optimized by minifying assets, adding offline functionality, and turning it into a Progressive Web Application following a course module on Google Lighthouse, webpack, Service workers and PWAs.
+
+## [Installation](#table-of-contents)
+
+Download the repo from Github. You will also need to run the command npm install express mysql2 in order to get npm and mysql ready.
 
 ## [Usage](#table-of-contents)
 
@@ -22,16 +38,14 @@ Web application designed for a food festival so attendees can use the app on the
 - Run npm start
 - All good to go
 
-## [Additions](#table-of-contents)
-
-Additions made to the existing app:
-
-- Measured performance metrics for the website using Chrome DevTool's Lighthouse app
-- Performed audits to expose performance flaws which are especially critical when dealing with slower mobile devices on sluggish networks
-- Used webpack to bundle assets through a dependency graph to optimize performance by lazy loading and minification
-- Used service workers to cache the websites assets for offline functionality
-- Offered installable icons for quick access to our app using PWAs
-
 ## [Application](#table-of-contents)
 
 ![Website image](./assets/img/Capture.PNG)
+
+## [Questions](#table-of-contents)
+
+To get into contact with me use the follow information below:
+<br />
+[Github: DanielCConlon](https://github.com/DanielCConlon)
+<br />
+[Email: danielcconlon@gmail.com](danielcconlon@gmail.com)
